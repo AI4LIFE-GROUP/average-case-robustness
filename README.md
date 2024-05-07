@@ -1,7 +1,7 @@
 # Efficient Estimators for Average-Case Robustness
 
 Code repository for the paper 
-["Characterizing Data Point Vulnerability via Average Case Robustness (UAI 2024) by Tessa Han*, Suraj Srinivas*, and Hima Lakkaraju"](https://arxiv.org/abs/2307.13885).
+["Characterizing Data Point Vulnerability via Average-Case Robustness (UAI 2024) by Tessa Han*, Suraj Srinivas*, and Hima Lakkaraju"](https://arxiv.org/abs/2307.13885).
 
 
 ## Summary
